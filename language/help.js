@@ -645,12 +645,10 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
 ┌── 「 *Thanks To* 」
-├ DikaArdnt
-├ Zeeoneofc
-├ FatihArridho
-├ Sanzy
-├ Yoga
-├ RiychDwayne
+├ Arief-zx
+├ MRG3P5
+├ Rizky Dev
+├ Ariffb
 └───────
 `
 }
