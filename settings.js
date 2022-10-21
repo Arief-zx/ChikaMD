@@ -1,9 +1,3 @@
-/*
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
-*/
-
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -18,19 +12,19 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6288270863279','6288270863279','6288270863279']
-global.premium = ['6288270863279']
-global.ownernomer = '6288270863279'
-global.ownername = 'DanzBot Official'
-global.botname = 'DanzBot-MD'
-global.footer = 'DanzBot Official'
-global.ig = 'https://instagram.com/danzgamtenk'
-global.email = 'witmawati4@gmail.com'
+global.owner = ['62895600555028']
+global.premium = ['62895600555028']
+global.ownernomer = '62895600555028'
+global.ownername = 'Arief-zx'
+global.botname = 'Chika Bot MD'
+global.footer = 'ZxCode'
+global.ig = 'https://instagram.com/arieff_westa'
+global.email = 'iamhack249@gmail.com'
 global.region = 'Indonesia'
-global.sc = 'Sc Minta Ma Owner Yuk, Free!'
+global.sc = 'https://github.com/Arief-zx/ChikaMD'
 global.myweb = '-'
-global.packname = 'DanzBot-MD'
-global.author = 'DanzBot-MD'
+global.packname = 'Arief-zx'
+global.author = 'ZxBot'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
